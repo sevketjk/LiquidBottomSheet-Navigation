@@ -52,7 +52,7 @@ class HomeScreen extends StatelessWidget {
                   ),
                   const SizedBox(width: 7),
                   const Text(
-                    'Search',
+                    'Search1',
                     style: TextStyle(color: Colors.black54),
                   ),
                 ],
